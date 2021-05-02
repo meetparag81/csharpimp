@@ -8,7 +8,7 @@ namespace CsharpIMP
 {
     class Program
     {
-        private static string[] pathtest;
+        
 
         static void Main(string[] args)
         {
